@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #9c7a5c;
+    margin: 50px auto 0 auto;
+    font-family: 'Courgette', cursive;
+} 
+
+h2 {
+    color: #9c7a5c;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat';
+}
+
+h3 {
+    color: #6d4225;
+    font-family: 'Montserrat';
+}
+
+hr {
+    background-color: none;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: #a88a70;
+    width: 3%;
+    margin-top: 50px;
+}
+
+p {
+    color: #65647C;
+    font-weight: bold;
+}
+
+a {
+    color: #6d4225;
+    font-family: 'Montserrat', sans-serif;
+    display:inline-block;
+    margin: auto 20px 20px 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.contact {
+    width: 50%;
+    text-align: center;
+    line-height: 2;
+    margin:auto;
+}
+
+.top-container {
+    background-color: #D0B8A8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #D0B8A8;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.miner {
+    margin-top: 20px;
+    height: 100px;
+}
+
+a {
+    color: #6d4225;
+    font-family: 'Montserrat', sans-serif;
+    display:inline-block;
+    margin: auto 20px 20px 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    background: #ba9f68;
+    background-image: -webkit-linear-gradient(top, #ba9f68, #d6ba7e);
+    background-image: -moz-linear-gradient(top, #ba9f68, #d6ba7e);
+    background-image: -ms-linear-gradient(top, #ba9f68, #d6ba7e);
+    background-image: -o-linear-gradient(top, #ba9f68, #d6ba7e);
+    background-image: linear-gradient(to bottom, #ba9f68, #d6ba7e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display:inline-block;
+    margin: 50px auto 50px auto;
+}
+
+.btn:hover {
+    background: #e0b662;
+    background-image: -webkit-linear-gradient(top, #e0b662, #cc9d6a);
+    background-image: -moz-linear-gradient(top, #e0b662, #cc9d6a);
+    background-image: -ms-linear-gradient(top, #e0b662, #cc9d6a);
+    background-image: -o-linear-gradient(top, #e0b662, #cc9d6a);
+    background-image: linear-gradient(to bottom, #e0b662, #cc9d6a);
+    text-decoration: none;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 120px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.signature {
+    color:#ffffff;
+    font-size: 0.75rem;
+}
+
+.geology-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+
+.researcher-img {
+    width: 25%;
+    margin-right: 30px;
+    float: right;
+}
+
+.programmer-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
